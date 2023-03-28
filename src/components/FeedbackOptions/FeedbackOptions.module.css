@@ -1,0 +1,40 @@
+.btn {
+    font-size: 18px;
+    text-decoration: none;
+    cursor: pointer;
+    display: block;
+    width: 100px;
+    height: 40px;
+    font-weight: bold;
+    margin: 20px auto;
+    text-align: center;
+    padding: 2px 5px;
+    color: #022524;
+    border-radius: 10px;
+    border: none;
+    /* box-shadow: 0px 3px 30px 10px rgba(7, 7, 7, 0.303); */
+}
+
+.btn:active {
+    color: #fff;
+}
+
+.btn:nth-child(1) {
+    box-shadow: 0px 3px 30px 10px rgba(10, 213, 10, 0.5);
+    background-color: rgba(10, 213, 10, 0.717);
+}
+
+.btn:nth-child(2) {
+    box-shadow: 0px 3px 30px 10px rgba(191, 195, 195, 0.383);
+    background-color: rgba(191, 195, 195, 0.474);
+}
+
+.btn:nth-child(3) {
+        box-shadow: 0px 3px 30px 10px rgba(255, 0, 0, 0.304);
+    background-color: rgba(255, 0, 0, 0.52);
+}
+
+.feedbtn {
+    display: flex;
+    align-items: center;
+}

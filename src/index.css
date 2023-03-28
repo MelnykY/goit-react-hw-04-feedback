@@ -1,0 +1,28 @@
+@import-normalize; /* bring in normalize.css styles */
+
+body {
+
+    background: dodgerblue linear-gradient(22deg, aqua, dodgerblue, deeppink) fixed;
+    color: white;
+    font: normal 32px/1.6 system-ui, sans-serif;
+    text-shadow: 0 1px 1px hsl(0 0% 0% / 20%);
+    margin: 3rem;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h2 {
+  font-weight: normal;
+}
+
+ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+li {
+  list-style-type: none;
+}

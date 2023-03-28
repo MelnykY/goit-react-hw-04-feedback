@@ -1,0 +1,17 @@
+.title {
+    font-size: 30px;
+    text-align: center;
+}
+
+.item {
+    padding-left: 20px;
+}
+
+.item:nth-child(4) {
+   font-weight: bold;
+}
+
+.item:nth-child(5) {
+    font-weight: bold;
+    color: rgba(62, 139, 57, 0.742);
+}
