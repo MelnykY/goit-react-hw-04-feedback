@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MelnykY.github.io/goit-react-hw-02-feedback/",
+  "homepage": "https://MelnykY.github.io/goit-react-hw-04-feedback/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@testing-library/jest-dom": "^5.16.3",
